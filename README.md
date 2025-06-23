@@ -35,6 +35,9 @@
 ![LiveKit](https://img.shields.io/badge/-LiveKit-FF5F01)
 ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?logo=amazonaws&logoColor=white)
+<!-- CSS-style pill, no external image -->
+<a href="https://www.tensorflow.org"><code><b>TensorFlow</b></code></a>
+
 //![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
