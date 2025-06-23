@@ -1,6 +1,7 @@
 <!-- profile README – last updated Jun 2025 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Parva101/Parva101/master/github-header.png" alt="Banner" width="100%" />
+  
+  <img src="https://raw.githubusercontent.com/Parva101/Parva101/main/Untitled.png" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi, I’m Parva 👋</h1>
 
@@ -32,16 +33,16 @@
 ## 🛠 Tool-belt
 <<p align="center">
   <!-- Devicon icons -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="20" height="20"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="20" height="20"/>
   <!-- SimpleIcons fallback (official SVGs) -->
-  <img src="https://cdn.simpleicons.org/langchain/01BFA6" alt="langchain" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/langgraph/5D3FD3" alt="langgraph" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/langchain/01BFA6" alt="langchain" width="20" height="20"/>
+  <img src="https://cdn.simpleicons.org/langgraph/5D3FD3" alt="langgraph" width="20" height="20"/>
 </p>
 
 
