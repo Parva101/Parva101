@@ -32,16 +32,16 @@
 ## 🛠 Tool-belt
 <<p align="center">
   <!-- Devicon icons -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="80" height="80"/>
   <!-- SimpleIcons fallback (official SVGs) -->
-  <img src="https://cdn.simpleicons.org/langchain/01BFA6" alt="langchain" width="80" height="80"/>
-  <img src="https://cdn.simpleicons.org/langgraph/5D3FD3" alt="langgraph" width="80" height="80"/>
+  <img src="https://cdn.simpleicons.org/langchain/01BFA6" alt="langchain" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/langgraph/5D3FD3" alt="langgraph" width="40" height="40"/>
 </p>
 
 
@@ -60,8 +60,8 @@
 
 ## 📊 GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_HANDLE&show_icons=true&include_all_commits=true&hide_border=true" alt="stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Parva101&show_icons=true&include_all_commits=true&hide_border=true" alt="stats" />
+</p>More actions
 
 
 ## 🤝 Let’s connect
