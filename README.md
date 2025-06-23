@@ -39,6 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Parva101/Parva101/main/livekit_logo.png" alt="Livekit" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/langchain/01BFA6" alt="LangChain" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/langgraph/5D3FD3" alt="LangGraph" width="40" height="40" />
