@@ -45,8 +45,10 @@
 </p>
 
 
-//![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+<!-- TensorFlow + LiveKit via Simple Icons -->
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40"/>
+<img src="https://cdn.simpleicons.org/livekit/FF5F01" width="40"/>
+
 
 ---
 
