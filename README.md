@@ -35,8 +35,15 @@
 ![LiveKit](https://img.shields.io/badge/-LiveKit-FF5F01)
 ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?logo=amazonaws&logoColor=white)
-<!-- CSS-style pill, no external image -->
-<a href="https://www.tensorflow.org"><code><b>TensorFlow</b></code></a>
+<!-- Devicon grid -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</p>
+
 
 //![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
