@@ -27,27 +27,16 @@
 ---
 
 ## 🛠 Tool-belt
-![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/-pgvector-2E86C1)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![LiveKit](https://img.shields.io/badge/-LiveKit-FF5F01)
-![Twilio](https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?logo=amazonaws&logoColor=white)
-<!-- Devicon grid -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twilio/twilio-original.svg" alt="twilio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livekit/livekit-original.svg" alt="livekit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="langchain" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langgraph/langgraph-original.svg" alt="langgraph" width="40" height="40"/>
 </p>
-
-
-<!-- TensorFlow + LiveKit via Simple Icons -->
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40"/>
-<img src="https://cdn.simpleicons.org/livekit/FF5F01" width="40"/>
 
 
 ---
