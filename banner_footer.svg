@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="180" viewBox="0 0 1200 180" preserveAspectRatio="xMidYMid slice">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        :root {
+          --primary-bg: #0a0a0a;
+          --accent-blue: #3b82f6;
+          --accent-purple: #8b5cf6;
+          --accent-cyan: #06b6d4;
+          --border-color: rgba(255, 255, 255, 0.08);
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .footer-banner {
+          width: 100%;
+          height: 180px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+          background: linear-gradient(135deg, #0a0a0a 0%, #141414 40%, #1f1f1f 100%);
+          font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        }
+        .footer-banner::before {
+          content: "";
+          position: absolute;
+          inset: 0;
+          background:
+            radial-gradient(circle at 15% 85%, rgba(6, 182, 212, 0.08) 0%, transparent 60%),
+            radial-gradient(circle at 85% 15%, rgba(139, 92, 246, 0.06) 0%, transparent 60%);
+          pointer-events: none;
+        }
+        .footer-banner::after {
+          content: "";
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          height: 1px;
+          background: linear-gradient(90deg, transparent, var(--accent-purple), transparent);
+          opacity: 0.4;
+        }
+        .grid-overlay {
+          position: absolute;
+          inset: 0;
+          background-image:
+            linear-gradient(rgba(59, 130, 246, 0.02) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(59, 130, 246, 0.02) 1px, transparent 1px);
+          background-size: 60px 60px;
+          animation: gridSlide 25s linear infinite;
+          pointer-events: none;
+        }
+        @keyframes gridSlide { 0% { transform: translate(0,0); } 100% { transform: translate(60px,60px); } }
+
+        .centre { z-index: 1; text-align: center; }
+        .message {
+          font-size: clamp(1.3rem, 2vw, 1.6rem);
+          font-weight: 600;
+          background: linear-gradient(135deg,#ffffff 0%,#dcdcdc 40%,#a0a0a0 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+        .sub { margin-top:0.3rem;font-size:0.9rem;color:#a0a0a0;letter-spacing:0.3px; }
+
+        .spark {
+          position: absolute;
+          width: 4px;
+          height: 4px;
+          background: var(--accent-cyan);
+          border-radius: 50%;
+          opacity: 0.4;
+          animation: sparkFloat 7s ease-in-out infinite;
+        }
+        /* 12 unique sparks */
+        .spark:nth-child(1){ left:8%;  bottom:50%; animation-delay:0s; }
+        .spark:nth-child(2){ left:18%; top:30%; animation-delay:1s; }
+        .spark:nth-child(3){ left:28%; bottom:20%; animation-delay:2s; }
+        .spark:nth-child(4){ left:39%; top:40%; animation-delay:0.8s; }
+        .spark:nth-child(5){ left:3%; bottom:30%; animation-delay:1.6s; }
+        .spark:nth-child(6){ left:60%; top:25%; animation-delay:2.4s; }
+        .spark:nth-child(7){ left:70%; bottom:45%; animation-delay:0.4s; }
+        .spark:nth-child(8){ right:50%; top:35%; animation-delay:1.2s; }
+        .spark:nth-child(9){ right:90%; bottom:45%; animation-delay:2.8s; }
+        .spark:nth-child(10){ right:5%; top:60%; animation-delay:3.2s; }
+        .spark:nth-child(11){ right:15%; bottom:22%; animation-delay:2.1s; }
+        .spark:nth-child(12){ right:25%; top:15%; animation-delay:0.5s; }
+
+        @keyframes sparkFloat {
+          0%,100% { transform: translateY(0); opacity:0.4; }
+          50% { transform: translateY(-10px); opacity:0.9; }
+        }
+      </style>
+
+      <div class="footer-banner">
+        <div class="grid-overlay"></div>
+        <!-- 12 sparks for richer ambience -->
+        <div class="spark"></div><div class="spark"></div><div class="spark"></div><div class="spark"></div><div class="spark"></div><div class="spark"></div><div class="spark"></div><div class="spark"></div><div class="spark"></div><div class="spark"></div><div class="spark"></div><div class="spark"></div>
+        <div class="centre">
+          <div class="message">"Talk is cheap. Show me the code."</div>
+          <div class="sub">– Linus Torvalds</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
