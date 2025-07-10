@@ -111,7 +111,8 @@
    <a href="https://www.linkedin.com/in/parvasheta/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Parva Sheta LinkedIn" /></a>
    <a href="mailto:parvasheta@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Parva Sheta" /></a>
 </p>
-<p align="center">
-  
-  <img src="https://raw.githubusercontent.com/Parva101/Parva101/main/footer_github.png" alt="Banner_foot" width="100%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Parva101/Parva101/main/banner_footer.svg"
+       alt="Quote Footer"
+       width="1000" />
+</div>
