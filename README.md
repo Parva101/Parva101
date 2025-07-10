@@ -1,8 +1,10 @@
 <!-- profile README – last updated Jun 2025 -->
-<p align="center">
-  
-  <img src="https://raw.githubusercontent.com/Parva101/Parva101/main/Untitled.png" alt="Banner" width="100%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Parva101/Parva101/main/banner_header.svg"
+       alt="Parva Sheta – AI/ML Engineer header"
+       width="1000" />
+</div>
+
 <h1 align="center">Hi, I’m Parva 👋</h1>
 
 <p align="center">
