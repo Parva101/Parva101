@@ -18,7 +18,8 @@
 - **Next-gen AI agents** for MIA.
 - **RAG-2.0 pipeline** → smarter chunking, hybrid BM25 + vector rerankers, latency &lt; 1000 ms for voice/chat.  
 - **Secure API gateway** with key-scoped roles, rate-limits, and usage analytics (FastAPI + PostgreSQL).  
-- **Managed metadata DB** for agent configs, session traces, and audit logs.  
+- **Managed metadata DB** for agent configs, session traces, and audit logs.
+- **Outbound call scheduling + Twilio Integration**: Working on a productioon grade soltuion for initiaing outbound call according to schedule with logging and tracing
 
 ---
 
